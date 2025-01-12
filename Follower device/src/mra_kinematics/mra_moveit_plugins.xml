@@ -1,0 +1,10 @@
+<library path="lib/libmra_moveit_plugin">
+  <class name="mra_kinematics/MRAKinematicsPlugin" type="mra_kinematics::MRAKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>
+      Analytic kinematics for the Universal Robots MRA7.
+      Developed by Kelsey Hawkins from Georgia Tech.
+      See http://hdl.handle.net/1853/50782 for details.
+    </description>
+  </class>
+</library>
+
